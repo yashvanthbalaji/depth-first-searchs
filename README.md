@@ -54,7 +54,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<h2>PYTHON 3 PROGRAM</h2>
+<h2>PROGRAM</h2>
 
 <pre><code class="language-python">
 def dfs(graph, start):
@@ -143,5 +143,5 @@ A
 <h2>RESULT</h2>
 
 <p>
-Thus, a graph was constructed and Depth First Search (DFS) traversal was implemented successfully using Python 3. The program visits the vertices of the graph using a stack and a visited set.
+Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
 </p>
